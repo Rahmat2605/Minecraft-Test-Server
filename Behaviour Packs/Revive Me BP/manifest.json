@@ -1,0 +1,72 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"product_type": "addon",
+		"authors": [
+			"Minecart7"
+		],
+		"generated_with": {
+			"bridge": [
+				"3.0.2"
+			],
+			"dash": [
+				"0.13.0-beta"
+			]
+		}
+	},
+	"header": {
+		"name": "Revive Me! 1.1.12",
+		"description": "An addon that adds reviving options for players",
+		"min_engine_version": [
+			1,
+			26,
+			30
+		],
+		"uuid": "1a069f4d-00ea-4d3d-bbc8-4bf2c11bba6e",
+		"version": [
+			1,
+			1,
+			12
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "57bf8469-af2d-4d1e-81c9-ffcc4a1f4e2c",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "d59867dc-0246-4525-bfa0-5f8852670cfb",
+			"entry": "scripts/main.js",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "5a07cd73-934b-4a73-84ea-d95ed951c089",
+			"version": [
+				1,
+				1,
+				8
+			]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "2.8.0"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "2.0.0"
+		}
+	]
+}

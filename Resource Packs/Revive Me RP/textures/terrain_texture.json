@@ -1,0 +1,7 @@
+{
+	"texture_data": {
+		"rm_loot_tracker": {
+			"textures": "textures/blocks/loot_chest"
+		}
+	}
+}

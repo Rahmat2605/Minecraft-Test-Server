@@ -1,0 +1,48 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§6Upgrader §r(RP)",
+    "description": "Station screens, textures and texts for the Upgrader.",
+    "uuid": "ab69f540-442e-4b98-9753-41e9b47e2e90",
+    "version": [
+      1,
+      8,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      26,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "e5526d29-3f82-4744-83fc-dc0b3815738f",
+      "version": [
+        1,
+        8,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "3a244cb6-588e-4495-a125-e208e34b9d6a",
+      "version": [
+        1,
+        8,
+        1
+      ]
+    }
+  ],
+  "capabilities": [
+    "pbr"
+  ],
+  "metadata": {
+    "product_type": "addon",
+    "authors": [
+      "YTAUN"
+    ]
+  }
+}

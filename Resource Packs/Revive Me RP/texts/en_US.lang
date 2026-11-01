@@ -1,0 +1,4 @@
+item.spawn_egg.entity.rm:loot_chest.name=Spawn loot chest
+entity.rm:loot_chest.name=loot chestentity
+iteitem.reviveme:medikit=Medikit
+tile.rm:loot_tracker.name=Loot_tracker

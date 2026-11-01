@@ -1,0 +1,28 @@
+## Upgrader - same texts as the Java mod, plus the few lines Bedrock needs
+item.upgrader:upgrader.name=Upgrader
+upgrader.item.desc=§7Right-click to open the upgrade station
+
+upgrader.menu.title=ITEM UPGRADER
+upgrader.gui.upgrade=UPGRADE
+upgrader.gui.cooldown=COOLDOWN %ss
+upgrader.gui.amount=Amount
+upgrader.gui.search=Search item...
+upgrader.gui.chance=chance
+upgrader.gui.spinning=spinning...
+upgrader.gui.success=SUCCESS!
+upgrader.gui.failure=FAILED
+upgrader.gui.pick_input=Choose an item to upgrade
+upgrader.gui.pick_input_hint=Click it in your inventory
+upgrader.gui.pick_target=Choose the item you want
+upgrader.gui.pick_target_hint=Click to open the catalogue
+upgrader.gui.value=Value: %s
+upgrader.gui.estimate=≈ chance: %s
+upgrader.gui.picker_footer=%s items · row %s of %s
+
+upgrader.gui.search_hint=Name or id, e.g. diamond
+upgrader.gui.done=Done
+upgrader.gui.pricing=Upgrader: pricing items, one moment...
+upgrader.potion.long=(long)
+upgrader.stats.line=Spins: §e%s§r · Wins: §a%s§r (%s) · Staked: §e%s§r · Won: §a%s
+upgrader.stats.best=Luckiest win:
+upgrader.stats.announce=won %s%s at %s!

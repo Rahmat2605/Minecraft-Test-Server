@@ -1,0 +1,64 @@
+{
+  "format_version": 2,
+  "metadata": {
+    "authors": [
+      "Zero Team"
+    ],
+    "product_type": "addon"
+  },
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "22D2425E-E496-4D6C-AFAE-5414657FF680",
+    "version": [
+      1,
+      4,
+      4
+    ],
+    "min_engine_version": [
+      1,
+      26,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "D0231424-06E5-4215-9B28-84750C0E2836",
+      "version": [
+        1,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "D99B6381-F4B7-4492-9F65-56809C17CAED",
+      "entry": "scripts/main.js",
+      "version": [
+        1,
+        4,
+        4
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "3E7B698E-DA0D-4C76-800F-5C239B6352AE",
+      "version": [
+        1,
+        4,
+        4
+      ]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.10.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "2.2.0"
+    }
+  ]
+}

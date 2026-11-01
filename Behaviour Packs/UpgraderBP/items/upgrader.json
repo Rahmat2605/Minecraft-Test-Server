@@ -1,0 +1,19 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:item": {
+    "description": {
+      "identifier": "upgrader:upgrader",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": {
+        "textures": {
+          "default": "upgrader_upgrader"
+        }
+      },
+      "minecraft:max_stack_size": 1
+    }
+  }
+}

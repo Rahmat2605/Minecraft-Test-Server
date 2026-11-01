@@ -1,0 +1,48 @@
+{
+  "format_version": 2,
+  "metadata": {
+    "authors": [
+      "Zero Team"
+    ],
+    "product_type": "addon"
+  },
+  "capabilities": [
+    "pbr"
+  ],
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "3E7B698E-DA0D-4C76-800F-5C239B6352AE",
+    "version": [
+      1,
+      4,
+      4
+    ],
+    "min_engine_version": [
+      1,
+      26,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "47939E9F-3C5C-404F-863B-B82310E215A5",
+      "version": [
+        1,
+        4,
+        4
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "22D2425E-E496-4D6C-AFAE-5414657FF680",
+      "version": [
+        1,
+        4,
+        4
+      ]
+    }
+  ]
+}

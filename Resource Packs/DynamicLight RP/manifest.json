@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Made By - RisabGamerz",
+    "name": "Dynamic Light + Offhand Torch RP",
+    "uuid": "fa2c32a5-7d57-4a2c-8f18-14abf087a6f0",
+    "version": [1, 4, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "description": "RisabGamerz Resource Module",
+      "type": "resources",
+      "uuid": "70b34b35-07e3-43e8-aad2-cfba1a79010e",
+      "version": [1, 4, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "4d9a3cb8-4ef2-4629-bfc7-f79b021687c2",
+      "version": [1, 4, 0]
+    }
+  ]
+}

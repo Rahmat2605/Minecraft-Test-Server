@@ -1,0 +1,61 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.fmc_villager_face": {
+      "arrays": {
+        "textures": {
+          "Array.faces": [
+            "Texture.fmc_neutral",
+            "Texture.fmc_neutral_talk",
+            "Texture.fmc_angry",
+            "Texture.fmc_angry_talk",
+            "Texture.fmc_scared",
+            "Texture.fmc_scared_talk",
+            "Texture.fmc_happy",
+            "Texture.fmc_happy_talk",
+            "Texture.fmc_sad",
+            "Texture.fmc_sad_talk",
+            "Texture.fmc_sleepy",
+            "Texture.fmc_sleepy_talk",
+            "Texture.fmc_surprised",
+            "Texture.fmc_surprised_talk",
+            "Texture.fmc_disgust",
+            "Texture.fmc_disgust_talk",
+            "Texture.fmc_chill",
+            "Texture.fmc_chill_talk"
+          ],
+          "Array.baby_faces": [
+            "Texture.fmc_neutral_baby",
+            "Texture.fmc_neutral_talk_baby",
+            "Texture.fmc_angry_baby",
+            "Texture.fmc_angry_talk_baby",
+            "Texture.fmc_scared_baby",
+            "Texture.fmc_scared_talk_baby",
+            "Texture.fmc_happy_baby",
+            "Texture.fmc_happy_talk_baby",
+            "Texture.fmc_sad_baby",
+            "Texture.fmc_sad_talk_baby",
+            "Texture.fmc_sleepy_baby",
+            "Texture.fmc_sleepy_talk_baby",
+            "Texture.fmc_surprised_baby",
+            "Texture.fmc_surprised_talk_baby",
+            "Texture.fmc_disgust_baby",
+            "Texture.fmc_disgust_talk_baby",
+            "Texture.fmc_chill_baby",
+            "Texture.fmc_chill_talk_baby"
+          ]
+        }
+      },
+      "rebuild_animation_matrices": true,
+      "geometry": "query.is_baby ? Geometry.fmc_face_baby : Geometry.fmc_face",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "query.is_baby ? Array.baby_faces[variable.fmc_face] : Array.faces[variable.fmc_face]"
+      ]
+    }
+  }
+}

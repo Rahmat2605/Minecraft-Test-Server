@@ -1,0 +1,158 @@
+{
+  "namespace": "server_form",
+  "long_form_dynamic_buttons_panel": {
+    "type": "stack_panel",
+    "size": [
+      "100% - 4px",
+      "100%c"
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "orientation": "vertical",
+    "anchor_from": "top_middle",
+    "anchor_to": "top_middle",
+    "factory": {
+      "name": "buttons",
+      "control_ids": {
+        "button": "server_form.dynamic_button",
+        "label": "@server_form.dynamic_label",
+        "header": "@server_form.dynamic_header",
+        "divider": "@settings_common.option_group_section_divider"
+      }
+    },
+    "collection_name": "form_buttons",
+    "bindings": [
+      {
+        "binding_name": "#form_button_contents",
+        "binding_name_override": "#upgrader_entries",
+        "binding_condition": "always"
+      },
+      {
+        "binding_name": "#title_text",
+        "binding_condition": "always"
+      },
+      {
+        "binding_type": "view",
+        "source_property_name": "(((#title_text - 'upgrader:') = #title_text) * #upgrader_entries)",
+        "target_property_name": "#collection_length",
+        "binding_condition": "always"
+      }
+    ]
+  },
+  "long_form": {
+    "type": "panel",
+    "size": [
+      "100%",
+      "100%"
+    ],
+    "controls": [
+      {
+        "long_form@common_dialogs.main_panel_no_buttons": {
+          "$title_panel": "common_dialogs.standard_title_label",
+          "$title_size": [
+            "100% - 15px",
+            10
+          ],
+          "$title_max_size": [
+            "100% - 15px",
+            10
+          ],
+          "size": [
+            225,
+            200
+          ],
+          "$text_name": "#title_text",
+          "$title_text_binding_type": "none",
+          "$child_control": "server_form.long_form_panel",
+          "layer": 2,
+          "bindings": [
+            {
+              "binding_name": "#title_text",
+              "binding_condition": "always"
+            },
+            {
+              "binding_type": "view",
+              "source_property_name": "(((#title_text - 'upgrader:') = #title_text) and ((#title_text - 'jamenu:') = #title_text) and ((#title_text - 'ysttree:') = #title_text) and ((#title_text - 'ystpick:') = #title_text) and ((#title_text - 'ysthub:') = #title_text))",
+              "target_property_name": "#visible",
+              "binding_condition": "always"
+            }
+          ]
+        }
+      },
+      {
+        "upgrader_station": {
+          "type": "collection_panel",
+          "size": [
+            288,
+            240
+          ],
+          "factory": {
+            "name": "gate_upgrader_station",
+            "control_name": "@upgrader.station"
+          },
+          "bindings": [
+            {
+              "binding_name": "#title_text",
+              "binding_condition": "always"
+            },
+            {
+              "binding_type": "view",
+              "source_property_name": "((not ((#title_text - 'upgrader:station') = #title_text)) * 1)",
+              "target_property_name": "#collection_length",
+              "binding_condition": "always"
+            }
+          ],
+          "layer": 2
+        }
+      },
+      {
+        "upgrader_catalog": {
+          "type": "collection_panel",
+          "size": [
+            288,
+            240
+          ],
+          "factory": {
+            "name": "gate_upgrader_catalog_catalog",
+            "control_name": "@upgrader_catalog.catalog"
+          },
+          "bindings": [
+            {
+              "binding_name": "#title_text",
+              "binding_condition": "always"
+            },
+            {
+              "binding_type": "view",
+              "source_property_name": "((not ((#title_text - 'upgrader:catalog') = #title_text)) * 1)",
+              "target_property_name": "#collection_length",
+              "binding_condition": "always"
+            }
+          ],
+          "layer": 2
+        }
+      },
+      {
+        "ja_tree@ja_common.tree_screen": {
+          "layer": 3
+        }
+      },
+      {
+        "yst_tree@yst_tree.tree_screen": {
+          "layer": 3
+        }
+      },
+      {
+        "yst_pick@yst_tree.pick_screen": {
+          "layer": 4
+        }
+      },
+      {
+        "yst_hub@yst_tree.hub_screen": {
+          "layer": 5
+        }
+      }
+    ]
+  }
+}

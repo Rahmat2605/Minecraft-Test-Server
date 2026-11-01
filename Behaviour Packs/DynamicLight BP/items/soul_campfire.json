@@ -1,0 +1,24 @@
+{
+  "format_version": "1.20.30",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraf:soul_campfire",
+      "category": "Items"
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "soul_campfire"
+      },
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.items"
+      },
+      "minecraft:allow_off_hand": true,
+      "minecraft:block_placer": {
+        "block": "soul_campfire"
+      },
+      "minecraft:display_name": {
+        "value": "Soul Campfire"
+      }
+    }
+  }
+}

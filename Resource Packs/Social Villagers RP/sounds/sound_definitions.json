@@ -1,0 +1,1517 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "social.1": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/1",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.2": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/2",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.3": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/3",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.4": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/4",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.5": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/5",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.6": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/6",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.7": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/7",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.8": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/8",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.9": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/9",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.10": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/10",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.11": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/11",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.12": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/12",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.13": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/13",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.14": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/14",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.15": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/15",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.16": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/16",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.17": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/17",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.18": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/18",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.19": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/19",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.20": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/20",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.21": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/21",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.22": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/22",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.23": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/23",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.24": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/24",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.25": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/25",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.26": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/26",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.27": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/27",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.28": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/28",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.29": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/29",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.30": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/30",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.31": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/31",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.32": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/32",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.33": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/33",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.34": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/34",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.35": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/35",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.36": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/36",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.37": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/37",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.38": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/38",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.39": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/39",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.40": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/40",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.41": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/41",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.42": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/42",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.43": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/43",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.44": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/44",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.45": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/45",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.46": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/46",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.47": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/47",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.48": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/48",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.49": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/49",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.50": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/50",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.51": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/51",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.52": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/52",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.53": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/53",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.54": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/54",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.55": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/55",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.56": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/56",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.57": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/57",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.58": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/58",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.59": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/59",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.60": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/60",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.61": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/61",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.62": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/62",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.63": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/63",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.64": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/64",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.65": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/65",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.66": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/66",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.67": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/67",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.68": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/68",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.69": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/69",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.70": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/70",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.71": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/71",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.72": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/72",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.73": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/73",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.74": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/74",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.75": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/75",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.76": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/76",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.77": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/77",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.78": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/78",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.79": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/79",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.80": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/80",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.81": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/81",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.82": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/82",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.83": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/83",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.84": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/84",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.85": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/85",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.86": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/86",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.87": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/87",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.88": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/88",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.89": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/89",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.90": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/90",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.91": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/91",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.92": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/92",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "mob.villager.idle": {
+      "category": "neutral",
+      "sounds": []
+    },
+    "mob.villager.hit": {
+      "category": "neutral",
+      "sounds": []
+    },
+    "mob.villager.death": {
+      "category": "neutral",
+      "sounds": []
+    },
+    "mob.villager.haggle": {
+      "category": "neutral",
+      "sounds": []
+    },
+    "mob.villager.yes": {
+      "category": "neutral",
+      "sounds": []
+    },
+    "mob.villager.no": {
+      "category": "neutral",
+      "sounds": []
+    },
+    "social.baby_cry": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/fmc/baby_cry",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 18.0
+    },
+    "social.93": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/93",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.94": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/94",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.95": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/95",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.96": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/96",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.97": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/97",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.98": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/98",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.99": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/99",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.100": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/100",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.101": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/101",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.102": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/102",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.103": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/103",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.104": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/104",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.105": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/105",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.106": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/106",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.107": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/107",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.109": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/109",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.110": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/110",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.113": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/113",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.117": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/117",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.120": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/120",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.121": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/121",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.125": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/125",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.127": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/127",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.128": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/128",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.130": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/130",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.131": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/131",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.134": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/134",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.138": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/138",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.139": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/139",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.141": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/141",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    },
+    "social.142": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/social/142",
+          "stream": false,
+          "volume": 1.0
+        }
+      ],
+      "min_distance": 1.0,
+      "max_distance": 16.0
+    }
+  }
+}

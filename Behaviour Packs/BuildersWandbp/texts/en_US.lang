@@ -1,0 +1,4 @@
+pack.name=Builder's Wand
+pack.description=A tool to simplify building by placing or removing blocks in lines, grids, or plane projections.
+
+item.ztp:builders_wand=Builder's Wand

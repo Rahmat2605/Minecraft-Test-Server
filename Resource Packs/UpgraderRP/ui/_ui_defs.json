@@ -1,0 +1,6 @@
+{
+  "ui_defs": [
+    "ui/upgrader_screens.json",
+    "ui/upgrader_catalog.json"
+  ]
+}

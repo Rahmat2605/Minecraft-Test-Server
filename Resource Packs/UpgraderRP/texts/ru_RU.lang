@@ -1,0 +1,28 @@
+## Апгрейдер - тексты мода на Java и несколько строк для Bedrock
+item.upgrader:upgrader.name=Апгрейдер
+upgrader.item.desc=§7ПКМ — открыть станцию улучшения
+
+upgrader.menu.title=АПГРЕЙД ПРЕДМЕТОВ
+upgrader.gui.upgrade=ПРОКАЧАТЬ
+upgrader.gui.cooldown=ПЕРЕЗАРЯДКА %sс
+upgrader.gui.amount=Количество
+upgrader.gui.search=Поиск предмета...
+upgrader.gui.chance=шанс
+upgrader.gui.spinning=крутим...
+upgrader.gui.success=УСПЕХ!
+upgrader.gui.failure=ПРОВАЛ
+upgrader.gui.pick_input=Выбери предмет для апгрейда
+upgrader.gui.pick_input_hint=Нажми на него в инвентаре
+upgrader.gui.pick_target=Выбери желаемый предмет
+upgrader.gui.pick_target_hint=Нажми, чтобы открыть каталог
+upgrader.gui.value=Ценность: %s
+upgrader.gui.estimate=≈ шанс: %s
+upgrader.gui.picker_footer=%s предметов · строка %s из %s
+
+upgrader.gui.search_hint=Английское название или id, напр. diamond
+upgrader.gui.done=Готово
+upgrader.gui.pricing=Апгрейдер: оцениваем предметы, секунду...
+upgrader.potion.long=(долгое)
+upgrader.stats.line=Прокрутов: §e%s§r · Побед: §a%s§r (%s) · Поставлено: §e%s§r · Выиграно: §a%s
+upgrader.stats.best=Самая удачная победа:
+upgrader.stats.announce=выигрывает %s%s с шансом %s!

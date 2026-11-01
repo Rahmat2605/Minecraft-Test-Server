@@ -1,0 +1,1 @@
+{"format_version":"1.20.50","minecraft:recipe_shaped":{"description":{"identifier":"rm:medikit"},"tags":["crafting_table"],"key":{"x":{"item":"white_carpet"},"y":{"item":"paper"},"z":{"item":"wheat_seeds"},"w":{"item":"red_dye"}},"pattern":["xxx","zzz","ywy"],"unlock":{"context":"PlayerHasManyItems"},"result":{"item":"reviveme:medikit","count":1}}}

@@ -1,0 +1,30 @@
+{
+  "format_version": 3,
+  "header": {
+    "name": "§l§aSocial Villagers",
+    "description": "v2 By FleetMc Studio",
+    "uuid": "136e939d-ffd7-4088-9d20-b86bc268f70b",
+    "version": "2.0.0",
+    "min_engine_version": "1.26.20",
+    "pack_scope": "world"
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "b2e0d1d4-c996-4fd5-a02b-5549be6b7c79",
+      "version": "2.0.0"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "f2b871ab-d025-4285-863f-c5cfc76f25bc",
+      "version": "2.0.0"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "FleetMc Studio"
+    ],
+    "product_type": "addon"
+  }
+}

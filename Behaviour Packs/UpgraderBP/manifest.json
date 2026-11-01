@@ -1,0 +1,64 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§6Upgrader §r(BP)",
+    "description": "Gambling-style item upgrader: risk an item for a shot at a better one. Potions, items of other add-ons, enchantments, statistics and an admin menu (/upgrader:admin).",
+    "uuid": "3a244cb6-588e-4495-a125-e208e34b9d6a",
+    "version": [
+      1,
+      8,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      26,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "d66667e5-fbfe-4896-a68f-5de81e2843ca",
+      "version": [
+        1,
+        8,
+        1
+      ]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "7cf2c62f-0ae2-4ed4-a6cc-74694449dba6",
+      "entry": "scripts/main.js",
+      "version": [
+        1,
+        8,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.10.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "2.2.0"
+    },
+    {
+      "uuid": "ab69f540-442e-4b98-9753-41e9b47e2e90",
+      "version": [
+        1,
+        8,
+        1
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "addon",
+    "authors": [
+      "YTAUN"
+    ]
+  }
+}

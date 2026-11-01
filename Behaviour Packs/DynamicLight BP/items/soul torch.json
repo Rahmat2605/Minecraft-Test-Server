@@ -1,0 +1,24 @@
+{
+  "format_version": "1.20.30",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraf:soul_torch",
+      "category": "Items"
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "soul_torch"
+      },
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.items"
+      },
+      "minecraft:allow_off_hand": true,
+      "minecraft:block_placer": {
+        "block": "soul_torch"
+      },
+      "minecraft:display_name": {
+        "value": "Soul Torch"
+      }
+    }
+  }
+}

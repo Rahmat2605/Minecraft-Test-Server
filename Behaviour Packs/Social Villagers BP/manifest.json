@@ -1,0 +1,41 @@
+{
+  "format_version": 3,
+  "header": {
+    "name": "§l§aSocial Villagers",
+    "description": "v2 By FleetMc Studio",
+    "uuid": "f2b871ab-d025-4285-863f-c5cfc76f25bc",
+    "version": "2.0.0",
+    "min_engine_version": "1.26.20",
+    "pack_scope": "world"
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "3f6faca3-386b-4038-b846-fb249bf75a2f",
+      "version": "2.0.0"
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "b69e0658-1187-4c50-8a51-ffe5b6c0d10a",
+      "version": "2.0.0",
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "136e939d-ffd7-4088-9d20-b86bc268f70b",
+      "version": "2.0.0"
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.10.0"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "FleetMc Studio"
+    ],
+    "product_type": "addon"
+  }
+}

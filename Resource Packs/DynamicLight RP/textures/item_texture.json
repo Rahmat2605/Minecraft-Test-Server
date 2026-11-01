@@ -1,0 +1,80 @@
+{
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "torch_on": {
+            "textures": [
+                "textures/items/torch_on"
+            ]
+        },
+        "copper_torch": {
+            "textures": [
+                "textures/items/copper_torch"
+            ]
+        },
+        "copper_lantern": {
+            "textures": [
+                "textures/items/copper_lantern"
+            ]
+        },
+        "waxed_weathered_copper_lantern": {
+            "textures": [
+                "textures/items/weathered_copper_lantern"
+            ]
+        },
+        "waxed_exposed_copper_lantern": {
+            "textures": [
+                "textures/items/exposed_copper_lantern"
+            ]
+        },
+        "waxed_oxidized_copper_lantern": {
+            "textures": [
+                "textures/items/oxidized_copper_lantern"
+            ]
+        },
+        "waxed_copper_lantern": {
+            "textures": [
+                "textures/items/copper_lantern"
+            ]
+        },
+        "oxidized_copper_lantern": {
+            "textures": [
+                "textures/items/oxidized_copper_lantern"
+            ]
+        },
+        "weathered_copper_lantern": {
+            "textures": [
+                "textures/items/weathered_copper_lantern"
+            ]
+        },
+        "exposed_copper_lantern": {
+            "textures": [
+                "textures/items/exposed_copper_lantern"
+            ]
+        },
+        "soul_torch": {
+            "textures": [
+                "textures/items/soul_torch"
+            ]
+        },
+        "soul_lantern": {
+            "textures": [
+                "textures/items/soul_lantern"
+            ]
+        },
+        "lantern": {
+            "textures": [
+                "textures/items/lantern"
+            ]
+        },
+        "campfire": {
+            "textures": [
+                "textures/items/campfire"
+            ]
+        },
+        "soul_campfire": {
+            "textures": [
+                "textures/items/soul_campfire"
+            ]
+        }
+    }
+}

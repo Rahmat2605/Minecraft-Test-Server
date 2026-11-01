@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "hammer-lite",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "ztp:iron_hammer": {
+      "textures": "textures/items/iron_hammer"
+    },
+    "ztp:diamond_hammer": {
+      "textures": "textures/items/diamond_hammer"
+    }
+  }
+}

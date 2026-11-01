@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:lantern"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#x#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:iron_nugget"
+      },
+      "x": {
+        "item": "minecraf:torch"
+      }
+    },
+    "result": {
+      "item": "minecraf:lantern",
+      "count": 1
+    }
+  }
+}

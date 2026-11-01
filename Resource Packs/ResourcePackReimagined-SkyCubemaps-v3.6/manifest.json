@@ -1,0 +1,73 @@
+{
+    "format_version": 2, 
+    "header": {
+      "name": "Reimagined Custom Skies/cubemaps", 
+      "description": "Better & Custom cubemaps to enhance the sky of your worlds - Mod MCPE",
+      "uuid": "2929fe73-8707-429a-836a-74a82be6864a",
+      "version": [3, 6, 0],
+      "min_engine_version": [1, 16, 0]
+}, 
+"modules": [ 
+    {
+        "type": "resources", 
+        "uuid": "97c99408-0aa8-4705-8357-a2885cddaa2f", 
+        "version": [3, 6, 0]
+    }
+  ],
+"subpacks": [
+    {
+      "folder_name": "8",
+      "name": "Aurora over the Crystal Vale",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "7",
+      "name": "Fantasy Night Sky",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "6",
+      "name": "Stormy Twilight",
+      "memory_tier": 0
+    },
+    {
+       "folder_name": "5",
+     "name": "Nebula in Deep Space",
+     "memory_tier": 0
+    },
+  {
+    "folder_name": "4",
+    "name": "Sunset over an Alien Landscape",
+    "memory_tier": 0
+  }, 
+  {
+    "folder_name": "3",
+   "name": "Snowy Winter Sky",
+   "memory_tier": 0
+  },
+  {
+   "folder_name": "2",
+    "name": "Anime Sky with Cherry Blossoms",
+   "memory_tier": 0
+  },
+  {
+   "folder_name": "1",
+    "name": "Stormy Ocean Sky",
+   "memory_tier": 0
+  },
+  {
+   "folder_name": "betterday",
+    "name": "Better Day Sky",
+   "memory_tier": 0
+  },
+  {
+    "folder_name": "dynamic_sky",
+    "name": "Dynamic Day/Night Sky",
+    "memory_tier": 0
+    }
+  ],
+  "metadata": {
+    "authors": ["Mod MCPE"],
+    "url": "https://www.curseforge.com/members/mod_mc"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "format_version": "1.20.30",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraf:waxed_oxidized_copper_lantern",
+      "category": "Items"
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "waxed_oxidized_copper_lantern"
+      },
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.items"
+      },
+      "minecraft:allow_off_hand": true,
+      "minecraft:block_placer": {
+        "block": "waxed_oxidized_copper_lantern"
+      },
+      "minecraft:display_name": {
+        "value": "Waxed Oxidized Copper Lantern"
+      }
+    }
+  }
+}

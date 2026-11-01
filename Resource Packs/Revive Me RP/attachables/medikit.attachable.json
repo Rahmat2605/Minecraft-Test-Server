@@ -1,0 +1,44 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "reviveme:medikit",
+			"render_controllers": [
+				"controller.render.item_default"
+			],
+			"materials": {
+				"default": "entity_alphatest",
+				"enchanted": "entity_alphatest_glint"
+			},
+			"textures": {
+				"default": "textures/entity/attachable/medikit",
+				"enchanted": "textures/misc/enchanted_item_glint"
+			},
+			"geometry": {
+				"default": "geometry.medikit"
+			},
+			"animations": {
+				"first_person_hold": "animation.medikit.first_person_hold",
+				"third_person_hold": "animation.medikit.third_person_hold",
+				"first_person_hold_a": "animation.medikit_a.first_person_hold",
+				"third_person_hold_a": "animation.medikit_a.third_person_hold"
+			},
+			"scripts": {
+				"animate": [
+					{
+						"first_person_hold": "c.is_first_person && !query.is_sneaking"
+					},
+					{
+						"third_person_hold": "!c.is_first_person && !query.is_sneaking"
+					},
+					{
+						"first_person_hold_a": "c.is_first_person && query.is_sneaking"
+					},
+					{
+						"third_person_hold_a": "!c.is_first_person && query.is_sneaking"
+					}
+				]
+			}
+		}
+	}
+}

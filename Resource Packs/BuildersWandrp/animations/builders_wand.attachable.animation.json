@@ -1,0 +1,44 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.builders_wand.first_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [66, 60, -60],
+					"position": [3, 21, 4],
+					"scale": [0.61, 0.61, 0.61]
+				}
+			}
+		},
+		"animation.builders_wand.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [80, 0, 0],
+					"position": [0.5, 20, -0.5],
+					"scale": 0.72
+				}
+			}
+		},
+		"animation.builders_wand.place": {
+			"animation_length": 0.25,
+			"bones": {
+				"rightitem": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.08": [-3, -5, -1],
+						"0.17": [1, -1, 0],
+						"0.25": [0, 0, 0]
+					},
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.08": [-25, -25, -15],
+						"0.17": [-8, 5, 3],
+						"0.25": [0, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}
